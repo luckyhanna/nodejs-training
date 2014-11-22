@@ -1,0 +1,17 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "This app reads files from the local system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "file-reader",
+    "reader",
+    "file"
+  ],
+  "author": "hanna",
+  "license": "MIT"
+}
